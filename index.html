@@ -21,12 +21,37 @@
     <script src="js/angular.min.js"></script>
     <script src="js/app.js"></script>
 
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-72547122-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="row text-center">
-            <img style="width: 200px;" src="img/logo.svg" alt="Genflix logo" />
-            <p class="text-center">all the generes in Netflix in one place</p>
+    <div class="container-fluid" style="padding: 0!important;">
+        <div class="row">
+            <div class="col-xs-2">
+                <a href="//github.com/kjetilsg/Genflix">
+                    <img style="width: 100px; height: 100px;" src="img/github.svg" alt="Github" />
+                </a>
+            </div>
+            <div class="col-xs-8 text-center">
+                <img style="width: 200px; padding-top: 40px;" src="img/logo.svg" alt="Genflix logo" />
+                <p class="text-center" style="padding-top: 10px;">all the generes in Netflix in one place</p>
+            </div>
+            <div class="col-xs-2 text-right">
+                <a href="//www.whatkind.no">
+                    <img style="width: 100px; height: 100px;" src="img/kind.svg" alt="KIND design" />
+                </a>
+            </div>
         </div>
     </div>
 
@@ -34,11 +59,19 @@
         <div class="row">
             <div ng-controller="mainController">
                 <h1 class="text-center">Genre</h1>
+                <div class="row">
+                    <div class="col-lg-3">
+                        <h2>
+                            <a href="#">
+                                Sub genre <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            </a>
+                        </h2>
+                        <p>URL number: <strong>/</strong></p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
