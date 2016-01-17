@@ -69,21 +69,21 @@
             </div>
         </div>
         <div class="row text-center" style="margin-top: 20px; padding: 10px;">
-            <p class="small">PS: please note that some genres may not be available in your country. Thanks MMPA.</p>
+            <p class="small">PS: please note that some genres may not be available in your country. Thanks MPAA.</p>
         </div>
     </div>
     <hr />
     <div class="container" ng-controller="mainController">
         <div class="row" ng-repeat="genre in genreList | filter: searchBox" style="padding: 20px;">
-            <h1 class="text-center header-margin">{{ genre.mainGenreName }}</h1>
+            <h1 class="text-center header-margin" ng-cloak>{{ genre.mainGenreName }}</h1>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6" ng-repeat="sub in genre.subGenre  | filter: searchBox">
-                    <h3>
+                    <h3 ng-cloak>
                         <a href="{{ sub.urlNetflix }}" target="_blank">
                             {{ sub.subGenreName }} <!--<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
                         </a>
                     </h3>
-                    <p>URL number: <strong>/{{ sub.urlNum }}</strong></p>
+                    <p ng-cloak>URL number: <strong>/{{ sub.urlNum }}</strong></p>
                 </div>
             </div>
         </div>
