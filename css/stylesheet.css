@@ -5810,7 +5810,17 @@ button.close {
   .hidden-print {
     display: none !important; } }
 h1 {
-  font-size: 100px;
+  font-size: 50px;
   font-weight: 200; }
+
+.header-margin-top {
+  margin-top: 50px; }
+
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: 100px; }
+
+  .header-margin-top {
+    margin-top: 50px; } }
 
 /*# sourceMappingURL=stylesheet.css.map */

@@ -1,210 +1,1650 @@
-[{"Genre":"Action","Subgenre":"Action & Adventure","UrlNum":1365,"Urls":"http://www.netflix.com/browse/genre/1365"},
-{"Genre":"Action","Subgenre":"Action Comedies","UrlNum":43040,"Urls":"http://www.netflix.com/browse/genre/43040"},
-{"Genre":"Action","Subgenre":"Action Sci-Fi & Fantasy","UrlNum":1568,"Urls":"http://www.netflix.com/browse/genre/1568"},
-{"Genre":"Action","Subgenre":"Action Thrillers","UrlNum":43048,"Urls":"http://www.netflix.com/browse/genre/43048"},
-{"Genre":"Adult","Subgenre":"Adult Animation","UrlNum":11881,"Urls":"http://www.netflix.com/browse/genre/11881"},
-{"Genre":"Adventures","Subgenre":"Adventures","UrlNum":7442,"Urls":"http://www.netflix.com/browse/genre/7442"},
-{"Genre":"African","Subgenre":"African Movies","UrlNum":3761,"Urls":"http://www.netflix.com/browse/genre/3761"},
-{"Genre":"Alien","Subgenre":"Alien Sci-Fi","UrlNum":3327,"Urls":"http://www.netflix.com/browse/genre/3327"},
-{"Genre":"Animal","Subgenre":"Animal Tales","UrlNum":5507,"Urls":"http://www.netflix.com/browse/genre/5507"},
-{"Genre":"Anime","Subgenre":"Anime Action","UrlNum":2653,"Urls":"http://www.netflix.com/browse/genre/2653"},
-{"Genre":"Anime","Subgenre":"Anime Comedies","UrlNum":9302,"Urls":"http://www.netflix.com/browse/genre/9302"},
-{"Genre":"Anime","Subgenre":"Anime Dramas","UrlNum":452,"Urls":"http://www.netflix.com/browse/genre/452"},
-{"Genre":"Anime","Subgenre":"Anime Fantasy","UrlNum":11146,"Urls":"http://www.netflix.com/browse/genre/11146"},
-{"Genre":"Anime","Subgenre":"Anime Features","UrlNum":3063,"Urls":"http://www.netflix.com/browse/genre/3063"},
-{"Genre":"Anime","Subgenre":"Anime Horror","UrlNum":10695,"Urls":"http://www.netflix.com/browse/genre/10695"},
-{"Genre":"Anime","Subgenre":"Anime Sci-Fi","UrlNum":2729,"Urls":"http://www.netflix.com/browse/genre/2729"},
-{"Genre":"Anime","Subgenre":"Anime Series","UrlNum":6721,"Urls":"http://www.netflix.com/browse/genre/6721"},
-{"Genre":"Anime","Subgenre":"Anime","UrlNum":7424,"Urls":"http://www.netflix.com/browse/genre/7424"},
-{"Genre":"Art","Subgenre":"Art House Movies","UrlNum":29764,"Urls":"http://www.netflix.com/browse/genre/29764"},
-{"Genre":"Asian","Subgenre":"Asian Action Movies","UrlNum":77232,"Urls":"http://www.netflix.com/browse/genre/77232"},
-{"Genre":"Australian","Subgenre":"Australian Movies","UrlNum":5230,"Urls":"http://www.netflix.com/browse/genre/5230"},
-{"Genre":"Baseball","Subgenre":"Baseball Movies","UrlNum":12339,"Urls":"http://www.netflix.com/browse/genre/12339"},
-{"Genre":"Basketball","Subgenre":"Basketball Movies","UrlNum":12762,"Urls":"http://www.netflix.com/browse/genre/12762"},
-{"Genre":"Belgian","Subgenre":"Belgian Movies","UrlNum":262,"Urls":"http://www.netflix.com/browse/genre/262"},
-{"Genre":"B-Horror","Subgenre":"B-Horror Movies","UrlNum":8195,"Urls":"http://www.netflix.com/browse/genre/8195"},
-{"Genre":"Biographical","Subgenre":"Biographical Documentaries","UrlNum":3652,"Urls":"http://www.netflix.com/browse/genre/3652"},
-{"Genre":"Biographical","Subgenre":"Biographical Dramas","UrlNum":3179,"Urls":"http://www.netflix.com/browse/genre/3179"},
-{"Genre":"Boxing","Subgenre":"Boxing Movies","UrlNum":12443,"Urls":"http://www.netflix.com/browse/genre/12443"},
-{"Genre":"British","Subgenre":"British Movies","UrlNum":10757,"Urls":"http://www.netflix.com/browse/genre/10757"},
-{"Genre":"British","Subgenre":"British TV Shows","UrlNum":52117,"Urls":"http://www.netflix.com/browse/genre/52117"},
-{"Genre":"Campy","Subgenre":"Campy Movies","UrlNum":1252,"Urls":"http://www.netflix.com/browse/genre/1252"},
-{"Genre":"Children","Subgenre":"Children & Family Movies","UrlNum":783,"Urls":"http://www.netflix.com/browse/genre/783"},
-{"Genre":"Chinese","Subgenre":"Chinese Movies","UrlNum":3960,"Urls":"http://www.netflix.com/browse/genre/3960"},
-{"Genre":"Classic","Subgenre":"Classic Action & Adventure","UrlNum":46576,"Urls":"http://www.netflix.com/browse/genre/46576"},
-{"Genre":"Classic","Subgenre":"Classic Comedies","UrlNum":31694,"Urls":"http://www.netflix.com/browse/genre/31694"},
-{"Genre":"Classic","Subgenre":"Classic Dramas","UrlNum":29809,"Urls":"http://www.netflix.com/browse/genre/29809"},
-{"Genre":"Classic","Subgenre":"Classic Foreign Movies","UrlNum":32473,"Urls":"http://www.netflix.com/browse/genre/32473"},
-{"Genre":"Classic","Subgenre":"Classic Movies","UrlNum":31574,"Urls":"http://www.netflix.com/browse/genre/31574"},
-{"Genre":"Classic","Subgenre":"Classic Musicals","UrlNum":32392,"Urls":"http://www.netflix.com/browse/genre/32392"},
-{"Genre":"Classic","Subgenre":"Classic Romantic Movies","UrlNum":31273,"Urls":"http://www.netflix.com/browse/genre/31273"},
-{"Genre":"Classic","Subgenre":"Classic Sci-Fi & Fantasy","UrlNum":47147,"Urls":"http://www.netflix.com/browse/genre/47147"},
-{"Genre":"Classic","Subgenre":"Classic Thrillers","UrlNum":46588,"Urls":"http://www.netflix.com/browse/genre/46588"},
-{"Genre":"Classic","Subgenre":"Classic TV Shows","UrlNum":46553,"Urls":"http://www.netflix.com/browse/genre/46553"},
-{"Genre":"Classic","Subgenre":"Classic War Movies","UrlNum":48744,"Urls":"http://www.netflix.com/browse/genre/48744"},
-{"Genre":"Classic","Subgenre":"Classic Westerns","UrlNum":47465,"Urls":"http://www.netflix.com/browse/genre/47465"},
-{"Genre":"Comedies","Subgenre":"Comedies","UrlNum":6548,"Urls":"http://www.netflix.com/browse/genre/6548"},
-{"Genre":"Comic","Subgenre":"Comic Book and Superhero Movies","UrlNum":10118,"Urls":"http://www.netflix.com/browse/genre/10118"},
-{"Genre":"Country","Subgenre":"Country & Western/Folk","UrlNum":1105,"Urls":"http://www.netflix.com/browse/genre/1105"},
-{"Genre":"Courtroom","Subgenre":"Courtroom Dramas","UrlNum":528582748,"Urls":"http://www.netflix.com/browse/genre/528582748"},
-{"Genre":"Creature","Subgenre":"Creature Features","UrlNum":6895,"Urls":"http://www.netflix.com/browse/genre/6895"},
-{"Genre":"Crime","Subgenre":"Crime Action & Adventure","UrlNum":9584,"Urls":"http://www.netflix.com/browse/genre/9584"},
-{"Genre":"Crime","Subgenre":"Crime Documentaries","UrlNum":9875,"Urls":"http://www.netflix.com/browse/genre/9875"},
-{"Genre":"Crime","Subgenre":"Crime Dramas","UrlNum":6889,"Urls":"http://www.netflix.com/browse/genre/6889"},
-{"Genre":"Crime","Subgenre":"Crime Thrillers","UrlNum":10499,"Urls":"http://www.netflix.com/browse/genre/10499"},
-{"Genre":"Crime","Subgenre":"Crime TV Shows","UrlNum":26146,"Urls":"http://www.netflix.com/browse/genre/26146"},
-{"Genre":"Cult","Subgenre":"Cult Comedies","UrlNum":9434,"Urls":"http://www.netflix.com/browse/genre/9434"},
-{"Genre":"Cult","Subgenre":"Cult Horror Movies","UrlNum":10944,"Urls":"http://www.netflix.com/browse/genre/10944"},
-{"Genre":"Cult","Subgenre":"Cult Movies","UrlNum":7627,"Urls":"http://www.netflix.com/browse/genre/7627"},
-{"Genre":"Cult","Subgenre":"Cult Sci-Fi & Fantasy","UrlNum":4734,"Urls":"http://www.netflix.com/browse/genre/4734"},
-{"Genre":"Cult","Subgenre":"Cult TV Shows","UrlNum":74652,"Urls":"http://www.netflix.com/browse/genre/74652"},
-{"Genre":"Dark","Subgenre":"Dark Comedies","UrlNum":869,"Urls":"http://www.netflix.com/browse/genre/869"},
-{"Genre":"Deep","Subgenre":"Deep Sea Horror Movies","UrlNum":45028,"Urls":"http://www.netflix.com/browse/genre/45028"},
-{"Genre":"Disney","Subgenre":"Disney Musicals","UrlNum":59433,"Urls":"http://www.netflix.com/browse/genre/59433"},
-{"Genre":"Disney","Subgenre":"Disney","UrlNum":67673,"Urls":"http://www.netflix.com/browse/genre/67673"},
-{"Genre":"Documentaries","Subgenre":"Documentaries","UrlNum":6839,"Urls":"http://www.netflix.com/browse/genre/6839"},
-{"Genre":"Dramas","Subgenre":"Dramas based on Books","UrlNum":4961,"Urls":"http://www.netflix.com/browse/genre/4961"},
-{"Genre":"Dramas","Subgenre":"Dramas based on real life","UrlNum":3653,"Urls":"http://www.netflix.com/browse/genre/3653"},
-{"Genre":"Dramas","Subgenre":"Dramas","UrlNum":5763,"Urls":"http://www.netflix.com/browse/genre/5763"},
-{"Genre":"Dutch","Subgenre":"Dutch Movies","UrlNum":10606,"Urls":"http://www.netflix.com/browse/genre/10606"},
-{"Genre":"Eastern","Subgenre":"Eastern European Movies","UrlNum":5254,"Urls":"http://www.netflix.com/browse/genre/5254"},
-{"Genre":"Education","Subgenre":"Education for Kids","UrlNum":10659,"Urls":"http://www.netflix.com/browse/genre/10659"},
-{"Genre":"Epics","Subgenre":"Epics","UrlNum":52858,"Urls":"http://www.netflix.com/browse/genre/52858"},
-{"Genre":"Experimental","Subgenre":"Experimental Movies","UrlNum":11079,"Urls":"http://www.netflix.com/browse/genre/11079"},
-{"Genre":"Faith","Subgenre":"Faith & Spirituality Movies","UrlNum":52804,"Urls":"http://www.netflix.com/browse/genre/52804"},
-{"Genre":"Faith","Subgenre":"Faith & Spirituality","UrlNum":26835,"Urls":"http://www.netflix.com/browse/genre/26835"},
-{"Genre":"Family","Subgenre":"Family Features","UrlNum":51056,"Urls":"http://www.netflix.com/browse/genre/51056"},
-{"Genre":"Fantasy","Subgenre":"Fantasy Movies","UrlNum":9744,"Urls":"http://www.netflix.com/browse/genre/9744"},
-{"Genre":"Film","Subgenre":"Film Noir","UrlNum":7687,"Urls":"http://www.netflix.com/browse/genre/7687"},
-{"Genre":"Food","Subgenre":"Food & Travel TV","UrlNum":72436,"Urls":"http://www.netflix.com/browse/genre/72436"},
-{"Genre":"Football","Subgenre":"Football Movies","UrlNum":12803,"Urls":"http://www.netflix.com/browse/genre/12803"},
-{"Genre":"Foreign","Subgenre":"Foreign Action & Adventure","UrlNum":11828,"Urls":"http://www.netflix.com/browse/genre/11828"},
-{"Genre":"Foreign","Subgenre":"Foreign Comedies","UrlNum":4426,"Urls":"http://www.netflix.com/browse/genre/4426"},
-{"Genre":"Foreign","Subgenre":"Foreign Documentaries","UrlNum":5161,"Urls":"http://www.netflix.com/browse/genre/5161"},
-{"Genre":"Foreign","Subgenre":"Foreign Dramas","UrlNum":2150,"Urls":"http://www.netflix.com/browse/genre/2150"},
-{"Genre":"Foreign","Subgenre":"Foreign Gay & Lesbian Movies","UrlNum":8243,"Urls":"http://www.netflix.com/browse/genre/8243"},
-{"Genre":"Foreign","Subgenre":"Foreign Horror Movies","UrlNum":8654,"Urls":"http://www.netflix.com/browse/genre/8654"},
-{"Genre":"Foreign","Subgenre":"Foreign Movies","UrlNum":7462,"Urls":"http://www.netflix.com/browse/genre/7462"},
-{"Genre":"Foreign","Subgenre":"Foreign Sci-Fi & Fantasy","UrlNum":6485,"Urls":"http://www.netflix.com/browse/genre/6485"},
-{"Genre":"Foreign","Subgenre":"Foreign Thrillers","UrlNum":10306,"Urls":"http://www.netflix.com/browse/genre/10306"},
-{"Genre":"French","Subgenre":"French Movies","UrlNum":58807,"Urls":"http://www.netflix.com/browse/genre/58807"},
-{"Genre":"Gangster","Subgenre":"Gangster Movies","UrlNum":31851,"Urls":"http://www.netflix.com/browse/genre/31851"},
-{"Genre":"Gay","Subgenre":"Gay & Lesbian Dramas","UrlNum":500,"Urls":"http://www.netflix.com/browse/genre/500"},
-{"Genre":"German","Subgenre":"German Movies","UrlNum":58886,"Urls":"http://www.netflix.com/browse/genre/58886"},
-{"Genre":"Greek","Subgenre":"Greek Movies","UrlNum":61115,"Urls":"http://www.netflix.com/browse/genre/61115"},
-{"Genre":"Historical","Subgenre":"Historical Documentaries","UrlNum":5349,"Urls":"http://www.netflix.com/browse/genre/5349"},
-{"Genre":"Horror","Subgenre":"Horror Comedy","UrlNum":89585,"Urls":"http://www.netflix.com/browse/genre/89585"},
-{"Genre":"Horror","Subgenre":"Horror Movies","UrlNum":8711,"Urls":"http://www.netflix.com/browse/genre/8711"},
-{"Genre":"Independent","Subgenre":"Independent Action & Adventure","UrlNum":11804,"Urls":"http://www.netflix.com/browse/genre/11804"},
-{"Genre":"Independent","Subgenre":"Independent Comedies","UrlNum":4195,"Urls":"http://www.netflix.com/browse/genre/4195"},
-{"Genre":"Independent","Subgenre":"Independent Dramas","UrlNum":384,"Urls":"http://www.netflix.com/browse/genre/384"},
-{"Genre":"Independent","Subgenre":"Independent Movies","UrlNum":7077,"Urls":"http://www.netflix.com/browse/genre/7077"},
-{"Genre":"Independent","Subgenre":"Independent Thrillers","UrlNum":3269,"Urls":"http://www.netflix.com/browse/genre/3269"},
-{"Genre":"Indian","Subgenre":"Indian Movies","UrlNum":10463,"Urls":"http://www.netflix.com/browse/genre/10463"},
-{"Genre":"Irish","Subgenre":"Irish Movies","UrlNum":58750,"Urls":"http://www.netflix.com/browse/genre/58750"},
-{"Genre":"Italian","Subgenre":"Italian Movies","UrlNum":8221,"Urls":"http://www.netflix.com/browse/genre/8221"},
-{"Genre":"Japanese","Subgenre":"Japanese Movies","UrlNum":10398,"Urls":"http://www.netflix.com/browse/genre/10398"},
-{"Genre":"Jazz","Subgenre":"Jazz & Easy Listening","UrlNum":10271,"Urls":"http://www.netflix.com/browse/genre/10271"},
-{"Genre":"Kids","Subgenre":"Kids Faith & Spirituality","UrlNum":751423,"Urls":"http://www.netflix.com/browse/genre/751423"},
-{"Genre":"Kids","Subgenre":"Kids Music","UrlNum":52843,"Urls":"http://www.netflix.com/browse/genre/52843"},
-{"Genre":"Kids","Subgenre":"Kids TV","UrlNum":27346,"Urls":"http://www.netflix.com/browse/genre/27346"},
-{"Genre":"Korean","Subgenre":"Korean Movies","UrlNum":5685,"Urls":"http://www.netflix.com/browse/genre/5685"},
-{"Genre":"Korean","Subgenre":"Korean TV Shows","UrlNum":67879,"Urls":"http://www.netflix.com/browse/genre/67879"},
-{"Genre":"Late","Subgenre":"Late Night Comedies","UrlNum":1402,"Urls":"http://www.netflix.com/browse/genre/1402"},
-{"Genre":"Latin","Subgenre":"Latin American Movies","UrlNum":1613,"Urls":"http://www.netflix.com/browse/genre/1613"},
-{"Genre":"Latin","Subgenre":"Latin Music","UrlNum":10741,"Urls":"http://www.netflix.com/browse/genre/10741"},
-{"Genre":"Martial","Subgenre":"Martial Arts Movies","UrlNum":8985,"Urls":"http://www.netflix.com/browse/genre/8985"},
-{"Genre":"Martial","Subgenre":"Martial Arts, Boxing & Wrestling","UrlNum":6695,"Urls":"http://www.netflix.com/browse/genre/6695"},
-{"Genre":"Middle","Subgenre":"Middle Eastern Movies","UrlNum":5875,"Urls":"http://www.netflix.com/browse/genre/5875"},
-{"Genre":"Military","Subgenre":"Military Action & Adventure","UrlNum":2125,"Urls":"http://www.netflix.com/browse/genre/2125"},
-{"Genre":"Military","Subgenre":"Military Documentaries","UrlNum":4006,"Urls":"http://www.netflix.com/browse/genre/4006"},
-{"Genre":"Military","Subgenre":"Military Dramas","UrlNum":11,"Urls":"http://www.netflix.com/browse/genre/11"},
-{"Genre":"Military","Subgenre":"Military TV Shows","UrlNum":25804,"Urls":"http://www.netflix.com/browse/genre/25804"},
-{"Genre":"Miniseries","Subgenre":"Miniseries","UrlNum":4814,"Urls":"http://www.netflix.com/browse/genre/4814"},
-{"Genre":"Mockumentaries","Subgenre":"Mockumentaries","UrlNum":26,"Urls":"http://www.netflix.com/browse/genre/26"},
-{"Genre":"Monster","Subgenre":"Monster Movies","UrlNum":947,"Urls":"http://www.netflix.com/browse/genre/947"},
-{"Genre":"Movies","Subgenre":"Movies based on childrens books","UrlNum":10056,"Urls":"http://www.netflix.com/browse/genre/10056"},
-{"Genre":"Movies","Subgenre":"Movies for ages 0 to 2","UrlNum":6796,"Urls":"http://www.netflix.com/browse/genre/6796"},
-{"Genre":"Movies","Subgenre":"Movies for ages 11 to 12","UrlNum":6962,"Urls":"http://www.netflix.com/browse/genre/6962"},
-{"Genre":"Movies","Subgenre":"Movies for ages 2 to 4","UrlNum":6218,"Urls":"http://www.netflix.com/browse/genre/6218"},
-{"Genre":"Movies","Subgenre":"Movies for ages 5 to 7","UrlNum":5455,"Urls":"http://www.netflix.com/browse/genre/5455"},
-{"Genre":"Movies","Subgenre":"Movies for ages 8 to 10","UrlNum":561,"Urls":"http://www.netflix.com/browse/genre/561"},
-{"Genre":"Music","Subgenre":"Music & Concert Documentaries","UrlNum":90361,"Urls":"http://www.netflix.com/browse/genre/90361"},
-{"Genre":"Miniseries","Subgenre":"Music","UrlNum":1701,"Urls":"http://www.netflix.com/browse/genre/1701"},
-{"Genre":"Mockumentaries","Subgenre":"Musicals","UrlNum":13335,"Urls":"http://www.netflix.com/browse/genre/13335"},
-{"Genre":"Mysteries","Subgenre":"Mysteries","UrlNum":9994,"Urls":"http://www.netflix.com/browse/genre/9994"},
-{"Genre":"New","Subgenre":"New Zealand Movies","UrlNum":63782,"Urls":"http://www.netflix.com/browse/genre/63782"},
-{"Genre":"Period","Subgenre":"Period Pieces","UrlNum":12123,"Urls":"http://www.netflix.com/browse/genre/12123"},
-{"Genre":"Political","Subgenre":"Political Comedies","UrlNum":2700,"Urls":"http://www.netflix.com/browse/genre/2700"},
-{"Genre":"Political","Subgenre":"Political Documentaries","UrlNum":7018,"Urls":"http://www.netflix.com/browse/genre/7018"},
-{"Genre":"Political","Subgenre":"Political Dramas","UrlNum":6616,"Urls":"http://www.netflix.com/browse/genre/6616"},
-{"Genre":"Political","Subgenre":"Political Thrillers","UrlNum":10504,"Urls":"http://www.netflix.com/browse/genre/10504"},
-{"Genre":"Psychological","Subgenre":"Psychological Thrillers","UrlNum":5505,"Urls":"http://www.netflix.com/browse/genre/5505"},
-{"Genre":"Quirky","Subgenre":"Quirky Romance","UrlNum":36103,"Urls":"http://www.netflix.com/browse/genre/36103"},
-{"Genre":"Reality","Subgenre":"Reality TV","UrlNum":9833,"Urls":"http://www.netflix.com/browse/genre/9833"},
-{"Genre":"Religious","Subgenre":"Religious Documentaries","UrlNum":10005,"Urls":"http://www.netflix.com/browse/genre/10005"},
-{"Genre":"Rock","Subgenre":"Rock & Pop Concerts","UrlNum":3278,"Urls":"http://www.netflix.com/browse/genre/3278"},
-{"Genre":"Romantic","Subgenre":"Romantic Comedies","UrlNum":5475,"Urls":"http://www.netflix.com/browse/genre/5475"},
-{"Genre":"Romantic","Subgenre":"Romantic Dramas","UrlNum":1255,"Urls":"http://www.netflix.com/browse/genre/1255"},
-{"Genre":"Romantic","Subgenre":"Romantic Favorites","UrlNum":502675,"Urls":"http://www.netflix.com/browse/genre/502675"},
-{"Genre":"Romantic","Subgenre":"Romantic Foreign Movies","UrlNum":7153,"Urls":"http://www.netflix.com/browse/genre/7153"},
-{"Genre":"Romantic","Subgenre":"Romantic Independent Movies","UrlNum":9916,"Urls":"http://www.netflix.com/browse/genre/9916"},
-{"Genre":"Romantic","Subgenre":"Romantic Movies","UrlNum":8883,"Urls":"http://www.netflix.com/browse/genre/8883"},
-{"Genre":"Russian","Subgenre":"Russian","UrlNum":11567,"Urls":"http://www.netflix.com/browse/genre/11567"},
-{"Genre":"Satanic","Subgenre":"Satanic Stories","UrlNum":6998,"Urls":"http://www.netflix.com/browse/genre/6998"},
-{"Genre":"Satires","Subgenre":"Satires","UrlNum":4922,"Urls":"http://www.netflix.com/browse/genre/4922"},
-{"Genre":"Scandinavian","Subgenre":"Scandinavian Movies","UrlNum":9292,"Urls":"http://www.netflix.com/browse/genre/9292"},
-{"Genre":"Science","Subgenre":"Science & Nature Documentaries","UrlNum":2595,"Urls":"http://www.netflix.com/browse/genre/2595"},
-{"Genre":"Science","Subgenre":"Science & Nature TV","UrlNum":52780,"Urls":"http://www.netflix.com/browse/genre/52780"},
-{"Genre":"Sci-Fi","Subgenre":"Sci-Fi & Fantasy","UrlNum":1492,"Urls":"http://www.netflix.com/browse/genre/1492"},
-{"Genre":"Sci-Fi","Subgenre":"Sci-Fi Adventure","UrlNum":6926,"Urls":"http://www.netflix.com/browse/genre/6926"},
-{"Genre":"Sci-Fi","Subgenre":"Sci-Fi Dramas","UrlNum":3916,"Urls":"http://www.netflix.com/browse/genre/3916"},
-{"Genre":"Sci-Fi","Subgenre":"Sci-Fi Horror Movies","UrlNum":1694,"Urls":"http://www.netflix.com/browse/genre/1694"},
-{"Genre":"Sci-Fi","Subgenre":"Sci-Fi Thrillers","UrlNum":11014,"Urls":"http://www.netflix.com/browse/genre/11014"},
-{"Genre":"Screwball","Subgenre":"Screwball Comedies","UrlNum":9702,"Urls":"http://www.netflix.com/browse/genre/9702"},
-{"Genre":"Showbiz","Subgenre":"Showbiz Dramas","UrlNum":5012,"Urls":"http://www.netflix.com/browse/genre/5012"},
-{"Genre":"Showbiz","Subgenre":"Showbiz Musicals","UrlNum":13573,"Urls":"http://www.netflix.com/browse/genre/13573"},
-{"Genre":"Silent","Subgenre":"Silent Movies","UrlNum":53310,"Urls":"http://www.netflix.com/browse/genre/53310"},
-{"Genre":"Slapstick","Subgenre":"Slapstick Comedies","UrlNum":10256,"Urls":"http://www.netflix.com/browse/genre/10256"},
-{"Genre":"Slasher","Subgenre":"Slasher and Serial Killer Movies","UrlNum":8646,"Urls":"http://www.netflix.com/browse/genre/8646"},
-{"Genre":"Soccer","Subgenre":"Soccer Movies","UrlNum":12549,"Urls":"http://www.netflix.com/browse/genre/12549"},
-{"Genre":"Social","Subgenre":"Social & Cultural Documentaries","UrlNum":3675,"Urls":"http://www.netflix.com/browse/genre/3675"},
-{"Genre":"Social","Subgenre":"Social Issue Dramas","UrlNum":3947,"Urls":"http://www.netflix.com/browse/genre/3947"},
-{"Genre":"Southeast","Subgenre":"Southeast Asian Movies","UrlNum":9196,"Urls":"http://www.netflix.com/browse/genre/9196"},
-{"Genre":"Spanish","Subgenre":"Spanish Movies","UrlNum":58741,"Urls":"http://www.netflix.com/browse/genre/58741"},
-{"Genre":"Spiritual","Subgenre":"Spiritual Documentaries","UrlNum":2760,"Urls":"http://www.netflix.com/browse/genre/2760"},
-{"Genre":"Sports","Subgenre":"Sports & Fitness","UrlNum":9327,"Urls":"http://www.netflix.com/browse/genre/9327"},
-{"Genre":"Sports","Subgenre":"Sports Comedies","UrlNum":5286,"Urls":"http://www.netflix.com/browse/genre/5286"},
-{"Genre":"Sports","Subgenre":"Sports Documentaries","UrlNum":180,"Urls":"http://www.netflix.com/browse/genre/180"},
-{"Genre":"Sports","Subgenre":"Sports Dramas","UrlNum":7243,"Urls":"http://www.netflix.com/browse/genre/7243"},
-{"Genre":"Sports","Subgenre":"Sports Movies","UrlNum":4370,"Urls":"http://www.netflix.com/browse/genre/4370"},
-{"Genre":"Spy","Subgenre":"Spy Action & Adventure","UrlNum":10702,"Urls":"http://www.netflix.com/browse/genre/10702"},
-{"Genre":"Spy","Subgenre":"Spy Thrillers","UrlNum":9147,"Urls":"http://www.netflix.com/browse/genre/9147"},
-{"Genre":"Stage","Subgenre":"Stage Musicals","UrlNum":55774,"Urls":"http://www.netflix.com/browse/genre/55774"},
-{"Genre":"Stand-up","Subgenre":"Stand-up Comedy","UrlNum":11559,"Urls":"http://www.netflix.com/browse/genre/11559"},
-{"Genre":"Steamy","Subgenre":"Steamy Romantic Movies","UrlNum":35800,"Urls":"http://www.netflix.com/browse/genre/35800"},
-{"Genre":"Steamy","Subgenre":"Steamy Thrillers","UrlNum":972,"Urls":"http://www.netflix.com/browse/genre/972"},
-{"Genre":"Supernatural","Subgenre":"Supernatural Horror Movies","UrlNum":42023,"Urls":"http://www.netflix.com/browse/genre/42023"},
-{"Genre":"Supernatural","Subgenre":"Supernatural Thrillers","UrlNum":11140,"Urls":"http://www.netflix.com/browse/genre/11140"},
-{"Genre":"Tearjerkers","Subgenre":"Tearjerkers","UrlNum":6384,"Urls":"http://www.netflix.com/browse/genre/6384"},
-{"Genre":"Teen","Subgenre":"Teen Comedies","UrlNum":3519,"Urls":"http://www.netflix.com/browse/genre/3519"},
-{"Genre":"Teen","Subgenre":"Teen Dramas","UrlNum":9299,"Urls":"http://www.netflix.com/browse/genre/9299"},
-{"Genre":"Teen","Subgenre":"Teen Screams","UrlNum":52147,"Urls":"http://www.netflix.com/browse/genre/52147"},
-{"Genre":"Teen","Subgenre":"Teen TV Shows","UrlNum":60951,"Urls":"http://www.netflix.com/browse/genre/60951"},
-{"Genre":"Thrillers","Subgenre":"Thrillers","UrlNum":8933,"Urls":"http://www.netflix.com/browse/genre/8933"},
-{"Genre":"Travel","Subgenre":"Travel & Adventure Documentaries","UrlNum":1159,"Urls":"http://www.netflix.com/browse/genre/1159"},
-{"Genre":"TV","Subgenre":"TV Action & Adventure","UrlNum":10673,"Urls":"http://www.netflix.com/browse/genre/10673"},
-{"Genre":"TV","Subgenre":"TV Cartoons","UrlNum":11177,"Urls":"http://www.netflix.com/browse/genre/11177"},
-{"Genre":"TV","Subgenre":"TV Comedies","UrlNum":10375,"Urls":"http://www.netflix.com/browse/genre/10375"},
-{"Genre":"TV","Subgenre":"TV Documentaries","UrlNum":10105,"Urls":"http://www.netflix.com/browse/genre/10105"},
-{"Genre":"TV","Subgenre":"TV Dramas","UrlNum":11714,"Urls":"http://www.netflix.com/browse/genre/11714"},
-{"Genre":"TV","Subgenre":"TV Horror","UrlNum":83059,"Urls":"http://www.netflix.com/browse/genre/83059"},
-{"Genre":"TV","Subgenre":"TV Mysteries","UrlNum":4366,"Urls":"http://www.netflix.com/browse/genre/4366"},
-{"Genre":"TV","Subgenre":"TV Sci-Fi & Fantasy","UrlNum":1372,"Urls":"http://www.netflix.com/browse/genre/1372"},
-{"Genre":"TV","Subgenre":"TV Shows","UrlNum":83,"Urls":"http://www.netflix.com/browse/genre/83"},
-{"Genre":"Urban","Subgenre":"Urban & Dance Concerts","UrlNum":9472,"Urls":"http://www.netflix.com/browse/genre/9472"},
-{"Genre":"Vampire","Subgenre":"Vampire Horror Movies","UrlNum":75804,"Urls":"http://www.netflix.com/browse/genre/75804"},
-{"Genre":"Werewolf","Subgenre":"Werewolf Horror Movies","UrlNum":75930,"Urls":"http://www.netflix.com/browse/genre/75930"},
-{"Genre":"Westerns","Subgenre":"Westerns","UrlNum":7700,"Urls":"http://www.netflix.com/browse/genre/7700"},
-{"Genre":"World","Subgenre":"World Music Concerts","UrlNum":2856,"Urls":"http://www.netflix.com/browse/genre/2856"},
-{"Genre":"Zombie","Subgenre":"Zombie Horror Movies","UrlNum":75405,"Urls":"http://www.netflix.com/browse/genre/75405"}]
+[
+  {
+    "mainGenreName": "Action",
+    "subGenre": [
+      {
+        "subGenreName": "Action & Adventure",
+        "urlNum": "1365",
+        "urlNetflix": "http://www.netflix.com/browse/genre/1365"
+      },
+      {
+        "subGenreName": "Action Comedies",
+        "urlNum": "43040",
+        "urlNetflix": "http://www.netflix.com/browse/genre/43040"
+      },
+      {
+        "subGenreName": "Action Sci-Fi & Fantasy",
+        "urlNum": "1568",
+        "urlNetflix": "http://www.netflix.com/browse/genre/1568"
+      },
+      {
+        "subGenreName": "Action Thrillers",
+        "urlNum": "43048",
+        "urlNetflix": "http://www.netflix.com/browse/genre/43048"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Adult",
+    "subGenre": [
+      {
+        "subGenreName": "Adult Animation",
+        "urlNum": "11881",
+        "urlNetflix": "http://www.netflix.com/browse/genre/11881"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Adventures",
+    "subGenre": [
+      {
+        "subGenreName": "Adventures",
+        "urlNum": 7442,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7442"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "African",
+    "subGenre": [
+      {
+        "subGenreName": "African Movies",
+        "urlNum": 3761,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3761"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Alien",
+    "subGenre": [
+      {
+        "subGenreName": "Alien Sci-Fi",
+        "urlNum": 3327,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3327"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Animal",
+    "subGenre": [
+      {
+        "subGenreName": "Animal Tales",
+        "urlNum": 5507,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5507"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Anime",
+    "subGenre": [
+      {
+        "subGenreName": "Anime Action",
+        "urlNum": 2653,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2653"
+      },
+      {
+        "subGenreName": "Anime Comedies",
+        "urlNum": 9302,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9302"
+      },
+      {
+        "subGenreName": "Anime Dramas",
+        "urlNum": 452,
+        "urlNetflix": "http://www.netflix.com/browse/genre/452"
+      },
+      {
+        "subGenreName": "Anime Fantasy",
+        "urlNum": 11146,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11146"
+      },
+      {
+        "subGenreName": "Anime Features",
+        "urlNum": 3063,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3063"
+      },
+      {
+        "subGenreName": "Anime Horror",
+        "urlNum": 10695,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10695"
+      },
+      {
+        "subGenreName": "Anime Sci-Fi",
+        "urlNum": 2729,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2729"
+      },
+      {
+        "subGenreName": "Anime Series",
+        "urlNum": 6721,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6721"
+      },
+      {
+        "subGenreName": "Anime",
+        "urlNum": 7424,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7424"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Art",
+    "subGenre": [
+      {
+        "subGenreName": "Art House Movies",
+        "urlNum": 29764,
+        "urlNetflix": "http://www.netflix.com/browse/genre/29764"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Asian",
+    "subGenre": [
+      {
+        "subGenreName": "Asian Action Movies",
+        "urlNum": 77232,
+        "urlNetflix": "http://www.netflix.com/browse/genre/77232"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Australian",
+    "subGenre": [
+      {
+        "subGenreName": "Australian Movies",
+        "urlNum": 5230,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5230"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Baseball",
+    "subGenre": [
+      {
+        "subGenreName": "Baseball Movies",
+        "urlNum": 12339,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12339"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Basketball",
+    "subGenre": [
+      {
+        "subGenreName": "Basketball Movies",
+        "urlNum": 12762,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12762"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Belgian",
+    "subGenre": [
+      {
+        "subGenreName": "Belgian Movies",
+        "urlNum": 262,
+        "urlNetflix": "http://www.netflix.com/browse/genre/262"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "B-Horror",
+    "subGenre": [
+      {
+        "subGenreName": "B-Horror Movies",
+        "urlNum": 8195,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8195"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Biographical",
+    "subGenre": [
+      {
+        "subGenreName": "Biographical Documentaries",
+        "urlNum": 3652,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3652"
+      },
+      {
+        "subGenreName": "Biographical Dramas",
+        "urlNum": 3179,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3179"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Boxing",
+    "subGenre": [
+      {
+        "subGenreName": "Boxing Movies",
+        "urlNum": 12443,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12443"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "British",
+    "subGenre": [
+      {
+        "subGenreName": "British Movies",
+        "urlNum": 10757,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10757"
+      },
+      {
+        "subGenreName": "British TV Shows",
+        "urlNum": 52117,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52117"
+      }
+
+    ]
+  },
+
+  {
+    "mainGenreName": "Campy",
+    "subGenre": [
+      {
+        "subGenreName": "Campy Movies",
+        "urlNum": 1252,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1252"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Children",
+    "subGenre": [
+      {
+        "subGenreName": "Children & Family Movies",
+        "urlNum": 783,
+        "urlNetflix": "http://www.netflix.com/browse/genre/783"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Chinese",
+    "subGenre": [
+      {
+        "subGenreName": "Chinese Movies",
+        "urlNum": 3960,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3960"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Classic",
+    "subGenre": [
+      {
+        "subGenreName": "Classic Action & Adventure",
+        "urlNum": 46576,
+        "urlNetflix": "http://www.netflix.com/browse/genre/46576"
+      },
+      {
+        "subGenreName": "Classic Comedies",
+        "urlNum": 31694,
+        "urlNetflix": "http://www.netflix.com/browse/genre/31694"
+      },
+      {
+        "subGenreName": "Classic Dramas",
+        "urlNum": 29809,
+        "urlNetflix": "http://www.netflix.com/browse/genre/29809"
+      },
+      {
+        "subGenreName": "Classic Foreign Movies",
+        "urlNum": 32473,
+        "urlNetflix": "http://www.netflix.com/browse/genre/32473"
+      },
+      {
+        "subGenreName": "Classic Movies",
+        "urlNum": 31574,
+        "urlNetflix": "http://www.netflix.com/browse/genre/31574"
+      },
+      {
+        "subGenreName": "Classic Musicals",
+        "urlNum": 32392,
+        "urlNetflix": "http://www.netflix.com/browse/genre/32392"
+      },
+      {
+        "subGenreName": "Classic Romantic Movies",
+        "urlNum": 31273,
+        "urlNetflix": "http://www.netflix.com/browse/genre/31273"
+      },
+      {
+        "subGenreName": "Classic Sci-Fi & Fantasy",
+        "urlNum": 47147,
+        "urlNetflix": "http://www.netflix.com/browse/genre/47147"
+      },
+      {
+        "subGenreName": "Classic Thrillers",
+        "urlNum": 46588,
+        "urlNetflix": "http://www.netflix.com/browse/genre/46588"
+      },
+      {
+        "subGenreName": "Classic TV Shows",
+        "urlNum": 46553,
+        "urlNetflix": "http://www.netflix.com/browse/genre/46553"
+      },
+      {
+        "subGenreName": "Classic War Movies",
+        "urlNum": 48744,
+        "urlNetflix": "http://www.netflix.com/browse/genre/48744"
+      },
+      {
+        "subGenreName": "Classic Westerns",
+        "urlNum": 47465,
+        "urlNetflix": "http://www.netflix.com/browse/genre/47465"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Comedies",
+    "subGenre": [
+      {
+        "subGenreName": "Comedies",
+        "urlNum": 6548,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6548"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Comic",
+    "subGenre": [
+      {
+        "subGenreName": "Comic Book and Superhero Movies",
+        "urlNum": 10118,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10118"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Country",
+    "subGenre": [
+      {
+        "subGenreName": "Country & Western/Folk",
+        "urlNum": 1105,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1105"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Courtroom",
+    "subGenre": [
+      {
+        "subGenreName": "Courtroom Dramas",
+        "urlNum": 528582748,
+        "urlNetflix": "http://www.netflix.com/browse/genre/528582748"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Creature",
+    "subGenre": [
+      {
+        "subGenreName": "Creature Features",
+        "urlNum": 6895,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6895"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Crime",
+    "subGenre": [
+      {
+        "subGenreName": "Crime Action & Adventure",
+        "urlNum": 9584,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9584"
+      },
+      {
+        "subGenreName": "Crime Documentaries",
+        "urlNum": 9875,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9875"
+      },
+      {
+        "subGenreName": "Crime Dramas",
+        "urlNum": 6889,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6889"
+      },
+      {
+        "subGenreName": "Crime Thrillers",
+        "urlNum": 10499,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10499"
+      },
+      {
+        "subGenreName": "Crime TV Shows",
+        "urlNum": 26146,
+        "urlNetflix": "http://www.netflix.com/browse/genre/26146"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Cult",
+    "subGenre": [
+      {
+        "subGenreName": "Cult Comedies",
+        "urlNum": 9434,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9434"
+      },
+      {
+        "subGenreName": "Cult Horror Movies",
+        "urlNum": 10944,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10944"
+      },
+      {
+        "subGenreName": "Cult Movies",
+        "urlNum": 7627,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7627"
+      },
+      {
+        "subGenreName": "Cult Sci-Fi & Fantasy",
+        "urlNum": 4734,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4734"
+      },
+      {
+        "subGenreName": "Cult TV Shows",
+        "urlNum": 74652,
+        "urlNetflix": "http://www.netflix.com/browse/genre/74652"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Dark",
+    "subGenre": [
+      {
+        "subGenreName": "Dark Comedies",
+        "urlNum": 869,
+        "urlNetflix": "http://www.netflix.com/browse/genre/869"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Deep",
+    "subGenre": [
+      {
+        "subGenreName": "Deep Sea Horror Movies",
+        "urlNum": 45028,
+        "urlNetflix": "http://www.netflix.com/browse/genre/45028"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Disney",
+    "subGenre": [
+      {
+        "subGenreName": "Disney Musicals",
+        "urlNum": 59433,
+        "urlNetflix": "http://www.netflix.com/browse/genre/59433"
+      },
+      {
+        "subGenreName": "Disney",
+        "urlNum": 67673,
+        "urlNetflix": "http://www.netflix.com/browse/genre/67673"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Documentaries",
+    "subGenre": [
+      {
+        "subGenreName": "Documentaries",
+        "urlNum": 6839,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6839"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Dramas",
+    "subGenre": [
+      {
+        "subGenreName": "Dramas based on Books",
+        "urlNum": 4961,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4961"
+      },
+      {
+        "subGenreName": "Dramas based on real life",
+        "urlNum": 3653,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3653"
+      },
+      {
+        "subGenreName": "Dramas",
+        "urlNum": 5763,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5763"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Dutch",
+    "subGenre": [
+      {
+        "subGenreName": "Dutch Movies",
+        "urlNum": 10606,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10606"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Eastern",
+    "subGenre": [
+      {
+        "subGenreName": "Eastern European Movies",
+        "urlNum": 5254,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5254"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Education",
+    "subGenre": [
+      {
+        "subGenreName": "Education for Kids",
+        "urlNum": 10659,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10659"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Epics",
+    "subGenre": [
+      {
+        "subGenreName": "Epics",
+        "urlNum": 52858,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52858"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Experimental",
+    "subGenre": [
+      {
+        "subGenreName": "Experimental Movies",
+        "urlNum": 11079,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11079"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Faith",
+    "subGenre": [
+      {
+        "subGenreName": "Faith & Spirituality Movies",
+        "urlNum": 52804,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52804"
+      },
+      {
+        "subGenreName": "Faith & Spirituality",
+        "urlNum": 26835,
+        "urlNetflix": "http://www.netflix.com/browse/genre/26835"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Family",
+    "subGenre": [
+      {
+        "subGenreName": "Family Features",
+        "urlNum": 51056,
+        "urlNetflix": "http://www.netflix.com/browse/genre/51056"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Fantasy",
+    "subGenre": [
+      {
+        "subGenreName": "Fantasy Movies",
+        "urlNum": 9744,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9744"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Film",
+    "subGenre": [
+      {
+        "subGenreName": "Film Noir",
+        "urlNum": 7687,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7687"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Food",
+    "subGenre": [
+      {
+        "subGenreName": "Food & Travel TV",
+        "urlNum": 72436,
+        "urlNetflix": "http://www.netflix.com/browse/genre/72436"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Football",
+    "subGenre": [
+      {
+        "subGenreName": "Football Movies",
+        "urlNum": 12803,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12803"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Foreign",
+    "subGenre": [
+      {
+        "subGenreName": "Foreign Action & Adventure",
+        "urlNum": 11828,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11828"
+      },
+      {
+        "subGenreName": "Foreign Comedies",
+        "urlNum": 4426,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4426"
+      },
+      {
+        "subGenreName": "Foreign Documentaries",
+        "urlNum": 5161,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5161"
+      },
+      {
+        "subGenreName": "Foreign Dramas",
+        "urlNum": 2150,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2150"
+      },
+      {
+        "subGenreName": "Foreign Gay & Lesbian Movies",
+        "urlNum": 8243,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8243"
+      },
+      {
+        "subGenreName": "Foreign Horror Movies",
+        "urlNum": 8654,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8654"
+      },
+      {
+        "subGenreName": "Foreign Movies",
+        "urlNum": 7462,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7462"
+      },
+      {
+        "subGenreName": "Foreign Sci-Fi & Fantasy",
+        "urlNum": 6485,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6485"
+      },
+      {
+        "subGenreName": "Foreign Thrillers",
+        "urlNum": 10306,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10306"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "French",
+    "subGenre": [
+      {
+        "subGenreName": "French Movies",
+        "urlNum": 58807,
+        "urlNetflix": "http://www.netflix.com/browse/genre/58807"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Gangster",
+    "subGenre": [
+      {
+        "subGenreName": "Gangster Movies",
+        "urlNum": 31851,
+        "urlNetflix": "http://www.netflix.com/browse/genre/31851"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Gay",
+    "subGenre": [
+      {
+        "subGenreName": "Gay & Lesbian Dramas",
+        "urlNum": 500,
+        "urlNetflix": "http://www.netflix.com/browse/genre/500"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "German",
+    "subGenre": [
+      {
+        "subGenreName": "German Movies",
+        "urlNum": 58886,
+        "urlNetflix": "http://www.netflix.com/browse/genre/58886"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Greek",
+    "subGenre": [
+      {
+        "subGenreName": "Greek Movies",
+        "urlNum": 61115,
+        "urlNetflix": "http://www.netflix.com/browse/genre/61115"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Historical",
+    "subGenre": [
+      {
+        "subGenreName": "Historical Documentaries",
+        "urlNum": 5349,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5349"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Horror",
+    "subGenre": [
+      {
+        "subGenreName": "Horror Comedy",
+        "urlNum": 89585,
+        "urlNetflix": "http://www.netflix.com/browse/genre/89585"
+      },
+      {
+        "subGenreName": "Horror Movies",
+        "urlNum": 8711,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8711"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Independent",
+    "subGenre": [
+      {
+        "subGenreName": "Independent Action & Adventure",
+        "urlNum": 11804,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11804"
+      },
+      {
+        "subGenreName": "Independent Comedies",
+        "urlNum": 4195,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4195"
+      },
+      {
+        "subGenreName": "Independent Dramas",
+        "urlNum": 384,
+        "urlNetflix": "http://www.netflix.com/browse/genre/384"
+      },
+      {
+        "subGenreName": "Independent Movies",
+        "urlNum": 7077,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7077"
+      },
+      {
+        "subGenreName": "Independent Thrillers",
+        "urlNum": 3269,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3269"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Indian",
+    "subGenre": [
+      {
+        "subGenreName": "Indian Movies",
+        "urlNum": 10463,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10463"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Irish",
+    "subGenre": [
+      {
+        "subGenreName": "Irish Movies",
+        "urlNum": 58750,
+        "urlNetflix": "http://www.netflix.com/browse/genre/58750"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Italian",
+    "subGenre": [
+      {
+        "subGenreName": "Italian Movies",
+        "urlNum": 8221,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8221"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Japanese",
+    "subGenre": [
+      {
+        "subGenreName": "Japanese Movies",
+        "urlNum": 10398,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10398"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Jazz",
+    "subGenre": [
+      {
+        "subGenreName": "Jazz & Easy Listening",
+        "urlNum": 10271,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10271"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Kids",
+    "subGenre": [
+      {
+        "subGenreName": "Kids Faith & Spirituality",
+        "urlNum": 751423,
+        "urlNetflix": "http://www.netflix.com/browse/genre/751423"
+      },
+      {
+        "subGenreName": "Kids Music",
+        "urlNum": 52843,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52843"
+      },
+      {
+        "subGenreName": "Kids TV",
+        "urlNum": 27346,
+        "urlNetflix": "http://www.netflix.com/browse/genre/27346"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Korean",
+    "subGenre": [
+      {
+        "subGenreName": "Korean Movies",
+        "urlNum": 5685,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5685"
+      },
+      {
+        "subGenreName": "Korean TV Shows",
+        "urlNum": 67879,
+        "urlNetflix": "http://www.netflix.com/browse/genre/67879"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Late",
+    "subGenre": [
+      {
+        "subGenreName": "Late Night Comedies",
+        "urlNum": 1402,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1402"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Latin",
+    "subGenre": [
+      {
+        "subGenreName": "Latin American Movies",
+        "urlNum": 1613,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1613"
+      },
+      {
+        "subGenreName": "Latin Music",
+        "urlNum": 10741,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10741"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Martial",
+    "subGenre": [
+      {
+        "subGenreName": "Martial Arts Movies",
+        "urlNum": 8985,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8985"
+      },
+      {
+        "subGenreName": "Martial Arts, Boxing & Wrestling",
+        "urlNum": 6695,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6695"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Middle",
+    "subGenre": [
+      {
+        "subGenreName": "Middle Eastern Movies",
+        "urlNum": 5875,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5875"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Military",
+    "subGenre": [
+      {
+        "subGenreName": "Military Action & Adventure",
+        "urlNum": 2125,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2125"
+      },
+      {
+        "subGenreName": "Military Documentaries",
+        "urlNum": 4006,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4006"
+      },
+      {
+        "subGenreName": "Military Dramas",
+        "urlNum": 11,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11"
+      },
+      {
+        "subGenreName": "Military TV Shows",
+        "urlNum": 25804,
+        "urlNetflix": "http://www.netflix.com/browse/genre/25804"
+      }
+    ]
+  },
+
+
+
+  {
+    "mainGenreName": "Miniseries",
+    "subGenre": [
+      {
+        "subGenreName": "Miniseries",
+        "urlNum": 4814,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4814"
+      },
+      {
+        "subGenreName": "Music",
+        "urlNum": 1701,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1701"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Mockumentaries",
+    "subGenre": [
+      {
+        "subGenreName": "Mockumentaries",
+        "urlNum": 26,
+        "urlNetflix": "http://www.netflix.com/browse/genre/26"
+      },
+      {
+        "subGenreName": "Musicals",
+        "urlNum": 13335,
+        "urlNetflix": "http://www.netflix.com/browse/genre/13335"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Monster",
+    "subGenre": [
+      {
+        "subGenreName": "Monster Movies",
+        "urlNum": 947,
+        "urlNetflix": "http://www.netflix.com/browse/genre/947"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Movies by age",
+    "subGenre": [
+      {
+        "subGenreName": "Movies based on childrens books",
+        "urlNum": 10056,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10056"
+      },
+      {
+        "subGenreName": "Movies for ages 0 to 2",
+        "urlNum": 6796,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6796"
+      },
+      {
+        "subGenreName": "Movies for ages 11 to 12",
+        "urlNum": 6962,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6962"
+      },
+      {
+        "subGenreName": "Movies for ages 2 to 4",
+        "urlNum": 6218,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6218"
+      },
+      {
+        "subGenreName": "Movies for ages 5 to 7",
+        "urlNum": 5455,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5455"
+      },
+      {
+        "subGenreName": "Movies for ages 8 to 10",
+        "urlNum": 561,
+        "urlNetflix": "http://www.netflix.com/browse/genre/561"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Mysteries",
+    "subGenre": [
+      {
+        "subGenreName": "Mysteries",
+        "urlNum": 9994,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9994"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "New Zealand",
+    "subGenre": [
+      {
+        "subGenreName": "New Zealand Movies",
+        "urlNum": 63782,
+        "urlNetflix": "http://www.netflix.com/browse/genre/63782"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Period",
+    "subGenre": [
+      {
+        "subGenreName": "Period Pieces",
+        "urlNum": 12123,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12123"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Political",
+    "subGenre": [
+      {
+        "subGenreName": "Political Comedies",
+        "urlNum": 2700,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2700"
+      },
+      {
+        "subGenreName": "Political Documentaries",
+        "urlNum": 7018,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7018"
+      },
+      {
+        "subGenreName": "Political Dramas",
+        "urlNum": 6616,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6616"
+      },
+      {
+        "subGenreName": "Political Thrillers",
+        "urlNum": 10504,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10504"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Psychological",
+    "subGenre": [
+      {
+        "subGenreName": "Psychological Thrillers",
+        "urlNum": 5505,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5505"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Quirky",
+    "subGenre": [
+      {
+        "subGenreName": "Quirky Romance",
+        "urlNum": 36103,
+        "urlNetflix": "http://www.netflix.com/browse/genre/36103"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Reality",
+    "subGenre": [
+      {
+        "subGenreName": "Reality TV",
+        "urlNum": 9833,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9833"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Religious",
+    "subGenre": [
+      {
+        "subGenreName": "Religious Documentaries",
+        "urlNum": 10005,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10005"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Rock",
+    "subGenre": [
+      {
+        "subGenreName": "Rock & Pop Concerts",
+        "urlNum": 3278,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3278"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Romantic",
+    "subGenre": [
+      {
+        "subGenreName": "Romantic Comedies",
+        "urlNum": 5475,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5475"
+      },
+      {
+        "subGenreName": "Romantic Dramas",
+        "urlNum": 1255,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1255"
+      },
+      {
+        "subGenreName": "Romantic Favorites",
+        "urlNum": 502675,
+        "urlNetflix": "http://www.netflix.com/browse/genre/502675"
+      },
+      {
+        "subGenreName": "Romantic Foreign Movies",
+        "urlNum": 7153,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7153"
+      },
+      {
+        "subGenreName": "Romantic Independent Movies",
+        "urlNum": 9916,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9916"
+      },
+      {
+        "subGenreName": "Romantic Movies",
+        "urlNum": 8883,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8883"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Russian",
+    "subGenre": [
+      {
+        "subGenreName": "Russian",
+        "urlNum": 11567,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11567"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Satanic",
+    "subGenre": [
+      {
+        "subGenreName": "Satanic Stories",
+        "urlNum": 6998,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6998"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Satires",
+    "subGenre": [
+      {
+        "subGenreName": "Satires",
+        "urlNum": 4922,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4922"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Scandinavian",
+    "subGenre": [
+      {
+        "subGenreName": "Scandinavian Movies",
+        "urlNum": 9292,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9292"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Science",
+    "subGenre": [
+      {
+        "subGenreName": "Science & Nature Documentaries",
+        "urlNum": 2595,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2595"
+      },
+      {
+        "subGenreName": "Science & Nature TV",
+        "urlNum": 52780,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52780"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Sci-Fi",
+    "subGenre": [
+      {
+        "subGenreName": "Sci-Fi & Fantasy",
+        "urlNum": 1492,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1492"
+      },
+      {
+        "subGenreName": "Sci-Fi Adventure",
+        "urlNum": 6926,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6926"
+      },
+      {
+        "subGenreName": "Sci-Fi Dramas",
+        "urlNum": 3916,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3916"
+      },
+      {
+        "subGenreName": "Sci-Fi Horror Movies",
+        "urlNum": 1694,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1694"
+      },
+      {
+        "subGenreName": "Sci-Fi Thrillers",
+        "urlNum": 11014,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11014"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Screwball",
+    "subGenre": [
+      {
+        "subGenreName": "Screwball Comedies",
+        "urlNum": 9702,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9702"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Showbiz",
+    "subGenre": [
+      {
+        "subGenreName": "Showbiz Dramas",
+        "urlNum": 5012,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5012"
+      },
+      {
+        "subGenreName": "Showbiz Musicals",
+        "urlNum": 13573,
+        "urlNetflix": "http://www.netflix.com/browse/genre/13573"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Silent",
+    "subGenre": [
+      {
+        "subGenreName": "Silent Movies",
+        "urlNum": 53310,
+        "urlNetflix": "http://www.netflix.com/browse/genre/53310"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Slapstick",
+    "subGenre": [
+      {
+        "subGenreName": "Slapstick Comedies",
+        "urlNum": 10256,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10256"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Slasher",
+    "subGenre": [
+      {
+        "subGenreName": "Slasher and Serial Killer Movies",
+        "urlNum": 8646,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8646"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Soccer",
+    "subGenre": [
+      {
+        "subGenreName": "Soccer Movies",
+        "urlNum": 12549,
+        "urlNetflix": "http://www.netflix.com/browse/genre/12549"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Social",
+    "subGenre": [
+      {
+        "subGenreName": "Social & Cultural Documentaries",
+        "urlNum": 3675,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3675"
+      },
+      {
+        "subGenreName": "Social Issue Dramas",
+        "urlNum": 3947,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3947"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Southeast",
+    "subGenre": [
+      {
+        "subGenreName": "Southeast Asian Movies",
+        "urlNum": 9196,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9196"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Spanish",
+    "subGenre": [
+      {
+        "subGenreName": "Spanish Movies",
+        "urlNum": 58741,
+        "urlNetflix": "http://www.netflix.com/browse/genre/58741"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Spiritual",
+    "subGenre": [
+      {
+        "subGenreName": "Spiritual Documentaries",
+        "urlNum": 2760,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2760"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Sports",
+    "subGenre": [
+      {
+        "subGenreName": "Sports & Fitness",
+        "urlNum": 9327,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9327"
+      },
+      {
+        "subGenreName": "Sports Comedies",
+        "urlNum": 5286,
+        "urlNetflix": "http://www.netflix.com/browse/genre/5286"
+      },
+      {
+        "subGenreName": "Sports Documentaries",
+        "urlNum": 180,
+        "urlNetflix": "http://www.netflix.com/browse/genre/180"
+      },
+      {
+        "subGenreName": "Sports Dramas",
+        "urlNum": 7243,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7243"
+      },
+      {
+        "subGenreName": "Sports Movies",
+        "urlNum": 4370,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4370"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Spy",
+    "subGenre": [
+      {
+        "subGenreName": "Spy Action & Adventure",
+        "urlNum": 10702,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10702"
+      },
+      {
+        "subGenreName": "Spy Thrillers",
+        "urlNum": 9147,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9147"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Stage",
+    "subGenre": [
+      {
+        "subGenreName": "Stage Musicals",
+        "urlNum": 55774,
+        "urlNetflix": "http://www.netflix.com/browse/genre/55774"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Stand-up",
+    "subGenre": [
+      {
+        "subGenreName": "Stand-up Comedy",
+        "urlNum": 11559,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11559"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Steamy",
+    "subGenre": [
+      {
+        "subGenreName": "Steamy Romantic Movies",
+        "urlNum": 35800,
+        "urlNetflix": "http://www.netflix.com/browse/genre/35800"
+      },
+      {
+        "subGenreName": "Steamy Thrillers",
+        "urlNum": 972,
+        "urlNetflix": "http://www.netflix.com/browse/genre/972"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Supernatural",
+    "subGenre": [
+      {
+        "subGenreName": "Supernatural Horror Movies",
+        "urlNum": 42023,
+        "urlNetflix": "http://www.netflix.com/browse/genre/42023"
+      },
+      {
+        "subGenreName": "Supernatural Thrillers",
+        "urlNum": 11140,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11140"
+      }
+    ]
+  },
+
+  {
+    "mainGenreName": "Tearjerkers",
+    "subGenre": [
+      {
+        "subGenreName": "Tearjerkers",
+        "urlNum": 6384,
+        "urlNetflix": "http://www.netflix.com/browse/genre/6384"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Teen",
+    "subGenre": [
+      {
+        "subGenreName": "Teen Comedies",
+        "urlNum": 3519,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3519"
+      },
+      {
+        "subGenreName": "Teen Dramas",
+        "urlNum": 9299,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9299"
+      },
+      {
+        "subGenreName": "Teen Screams",
+        "urlNum": 52147,
+        "urlNetflix": "http://www.netflix.com/browse/genre/52147"
+      },
+      {
+        "subGenreName": "Teen TV Shows",
+        "urlNum": 60951,
+        "urlNetflix": "http://www.netflix.com/browse/genre/60951"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Thrillers",
+    "subGenre": [
+      {
+        "subGenreName": "Thrillers",
+        "urlNum": 8933,
+        "urlNetflix": "http://www.netflix.com/browse/genre/8933"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Travel",
+    "subGenre": [
+      {
+        "subGenreName": "Travel & Adventure Documentaries",
+        "urlNum": 1159,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1159"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "TV",
+    "subGenre": [
+      {
+        "subGenreName": "TV Action & Adventure",
+        "urlNum": 10673,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10673"
+      },
+      {
+        "subGenreName": "TV Cartoons",
+        "urlNum": 11177,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11177"
+      },
+      {
+        "subGenreName": "TV Comedies",
+        "urlNum": 10375,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10375"
+      },
+      {
+        "subGenreName": "TV Documentaries",
+        "urlNum": 10105,
+        "urlNetflix": "http://www.netflix.com/browse/genre/10105"
+      },
+      {
+        "subGenreName": "TV Dramas",
+        "urlNum": 11714,
+        "urlNetflix": "http://www.netflix.com/browse/genre/11714"
+      },
+      {
+        "subGenreName": "TV Horror",
+        "urlNum": 83059,
+        "urlNetflix": "http://www.netflix.com/browse/genre/83059"
+      },
+      {
+        "subGenreName": "TV Mysteries",
+        "urlNum": 4366,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4366"
+      },
+      {
+        "subGenreName": "TV Sci-Fi & Fantasy",
+        "urlNum": 1372,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1372"
+      },
+      {
+        "subGenreName": "TV Shows",
+        "urlNum": 83,
+        "urlNetflix": "http://www.netflix.com/browse/genre/83"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Urban",
+    "subGenre": [
+      {
+        "subGenreName": "Urban & Dance Concerts",
+        "urlNum": 9472,
+        "urlNetflix": "http://www.netflix.com/browse/genre/9472"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Vampire",
+    "subGenre": [
+      {
+        "subGenreName": "Vampire Horror Movies",
+        "urlNum": 75804,
+        "urlNetflix": "http://www.netflix.com/browse/genre/75804"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Werewolf",
+    "subGenre": [
+      {
+        "subGenreName": "Werewolf Horror Movies",
+        "urlNum": 75930,
+        "urlNetflix": "http://www.netflix.com/browse/genre/75930"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Westerns",
+    "subGenre": [
+      {
+        "subGenreName": "Westerns",
+        "urlNum": 7700,
+        "urlNetflix": "http://www.netflix.com/browse/genre/7700"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "World",
+    "subGenre": [
+      {
+        "subGenreName": "World Music Concerts",
+        "urlNum": 2856,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2856"
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Zombie",
+    "subGenre": [
+      {
+        "subGenreName": "Zombie Horror Movies",
+        "urlNum": 75405,
+        "urlNetflix": "http://www.netflix.com/browse/genre/75405"
+      }
+    ]
+  }
+]
