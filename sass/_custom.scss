@@ -1,6 +1,14 @@
 h1 {
-    font-size: 50px;
+    font-size: 10vw;
     font-weight: 200;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
 }
 
 .header-margin-top {
@@ -19,6 +27,14 @@ h1 {
     h1 {
         font-size: 100px;
     }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    p {
+    font-size: 16px;
+}
 
     .header-margin-top {
         margin-top: 50px;
