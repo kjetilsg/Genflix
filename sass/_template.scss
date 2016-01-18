@@ -34,7 +34,7 @@ $text-color:            #fff !default;
 //** Global textual link color.
 $link-color:            $brand-primary !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      darken($link-color, 15%) !default;
+$link-hover-color:      #ff0c0c !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
@@ -707,7 +707,7 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg:                    #fff !default;
+$panel-bg:                    rgba(255,255,255,0) !default;
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;

@@ -1086,7 +1086,7 @@ a {
   color: #e22028;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #a1151b;
+    color: #ff0c0c;
     text-decoration: underline; }
   a:focus {
     outline: thin dotted;
@@ -3097,7 +3097,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
   .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #a1151b;
+    color: #ff0c0c;
     text-decoration: underline;
     background-color: transparent; }
   .btn-link[disabled]:hover, .btn-link[disabled]:focus, fieldset[disabled] .btn-link:hover, fieldset[disabled] .btn-link:focus {
@@ -4117,7 +4117,7 @@ tbody.collapse.in {
   .pagination > li > span:hover,
   .pagination > li > span:focus {
     z-index: 2;
-    color: #a1151b;
+    color: #ff0c0c;
     background-color: #eeeeee;
     border-color: #ddd; }
   .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -4697,7 +4697,7 @@ button.list-group-item-danger {
 
 .panel {
   margin-bottom: 22px;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0);
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -5809,6 +5809,22 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.fork-me-box {
+  position: absolute;
+  top: 36px;
+  left: 29px;
+  z-index: 99; }
+
+.fork-me-text {
+  font-family: "VT323";
+  font-size: 18px;
+  width: 200px;
+  -ms-transform: rotate(-7deg);
+  /* IE 9 */
+  -webkit-transform: rotate(-7deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(-7deg); }
+
 h1 {
   font-size: 10vw;
   font-weight: 200; }
@@ -5829,17 +5845,36 @@ p {
   border-radius: 20px;
   border: none; }
 
+.flex-container {
+  padding: 20px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-flow: row wrap; }
+
+.flex-item {
+  width: 50%;
+  padding: 10px; }
+
 @media screen and (min-width: 768px) {
   h1 {
     font-size: 100px; }
 
   h3 {
-    font-size: 28px; }
+    font-size: 28px;
+    font-weight: 400; }
 
   p {
     font-size: 16px; }
 
   .header-margin-top {
-    margin-top: 50px; } }
+    margin-top: 50px; }
+
+  .flex-item {
+    width: 25%; } }
 
 /*# sourceMappingURL=stylesheet.css.map */

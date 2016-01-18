@@ -1,3 +1,19 @@
+.fork-me-box {
+    position: absolute;
+    top: 36px;
+    left: 29px;
+    z-index: 99;
+}
+
+.fork-me-text {
+    font-family: 'VT323', ;
+    font-size: 18px;
+    width: 200px;
+    -ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+}
+
 h1 {
     font-size: 10vw;
     font-weight: 200;
@@ -23,6 +39,23 @@ p {
     border: none;
 }
 
+.flex-container {
+    padding: 20px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-flow: row wrap;
+}
+
+.flex-item {
+    width: 50%;
+    padding: 10px;
+}
+
 @media screen and (min-width: $screen-sm) {
     h1 {
         font-size: 100px;
@@ -30,13 +63,18 @@ p {
 
     h3 {
         font-size: 28px;
+        font-weight: 400;
     }
 
     p {
-    font-size: 16px;
-}
+        font-size: 16px;
+    }
 
     .header-margin-top {
         margin-top: 50px;
+    }
+
+    .flex-item {
+        width: 25%;
     }
 }

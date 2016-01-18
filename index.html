@@ -15,6 +15,7 @@
     <link href="css/stylesheet.css" rel="stylesheet">
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,200,700,500' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,6 +48,10 @@
         </a>
     </div>
 
+    <div class="hidden-xs hidden-sm fork-me-box">
+        <div class="fork-me-text text-center">Did I miss any genres?<br />Wanna help out?<br /><a href="//github.com/kjetilsg/Genflix">Fork me!</a></div>
+    </div>
+
     <div style="position: absolute; top: 0; right: 0; z-index: 100;">
         <a href="//www.whatkind.no">
             <img style="width: 100px; height: 100px;" src="img/kind.svg" alt="KIND design" />
@@ -61,10 +66,10 @@
             </div>
         </div>
     </div>
-    
+
     <div class="container" style="margin-top: 30px; margin-bottom: -30px;">
         <div class="row">
-            <div class="col-lg-4 col-lg-offset-4">
+            <div class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                 <input class="search-box" placeholder="search for genres" ng-model="searchBox" />
             </div>
         </div>
@@ -73,17 +78,21 @@
         </div>
     </div>
     <hr />
-    <div class="container" ng-controller="mainController">
-        <div class="row" ng-repeat="genre in genreList | filter: searchBox" style="padding: 20px;">
-            <h1 class="text-center header-margin" ng-cloak>{{ genre.mainGenreName }}</h1>
+    <div ng-controller="mainController">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6" ng-repeat="sub in genre.subGenre  | filter: searchBox">
-                    <h3 ng-cloak>
-                        <a href="{{ sub.urlNetflix }}" target="_blank">
-                            {{ sub.subGenreName }} <!--<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
-                        </a>
-                    </h3>
-                    <p ng-cloak>URL number: <strong>/{{ sub.urlNum }}</strong></p>
+                <div ng-repeat="genre in genreList | filter: searchBox">
+                    <h1 class="text-center header-margin" style="width: 100%;" ng-cloak>{{ genre.mainGenreName }}</h1>
+                    <div class="flex-container">
+                        <div class="flex-item" ng-repeat="sub in genre.subGenre  | filter: searchBox">
+                            <h3 ng-cloak>
+                                <a href="{{ sub.urlNetflix }}" target="_blank">
+                                    {{ sub.subGenreName }} <!--<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
+                                </a>
+                            </h3>
+                            <p ng-cloak>URL number: <strong>/{{ sub.urlNum }}</strong></p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
