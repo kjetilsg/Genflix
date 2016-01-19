@@ -73,22 +73,10 @@
             <div class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                 <div class="panel panel-info">
                     <div class="panel-body text-center">
-                        <p class="small" style="margin:0;"><strong>Update 19.01.2016:<br /></strong>added Critically-acclaimed sub genres</p>
+                        <p class="small" style="margin:0;"><strong>Update 19.01.2016:<br /></strong>added 83 Critically-acclaimed sub genres</p>
                     </div>
                 </div>
                 <input class="search-box" placeholder="search for genres" ng-model="searchBox" />
-                <!--<div class="text-center" style="margin-top: 25px;">
-                    <h4>Feeling adventurous?</h4>
-                    <p class="small">Get a random genre</p>
-                    <button class="btn btn-primary" style="padding-bottom: 3px;" ng-cloak ng-click="getNumber()">
-                        <svg style="width: 20px; height:20px;" viewBox="0 0 100 100">
-                            <path style="fill:#FFFFFF;" d="M82,71.4l9.2,8.6H65.8l-15-27.5l15-27.5h25.4L82,33.3l2,2.1l13.2-12.3L84.1,10.8l-2,2.4l9.2,8.8H65.5
-	c-0.8,0-1.6,0.2-2.1,0.9c0,0,0-0.1-0.1,0L49.1,49.2L35.6,24.3c0,0,0-0.1-0.1-0.1c-0.5-0.7-1.2-1.1-2.1-1.1H5c-0.8,0-1.5,0.7-1.5,1.5
-	S4.2,26,5,26h28.2l14.2,26.5L33.2,79H5c-0.8,0-1.5,0.7-1.5,1.5S4.2,82,5,82h28.5c0.8,0,1.6-0.7,2.1-1.4c0,0,0-0.2,0.1-0.2l13.5-24.9
-	l14.3,26.3c0,0,0,0.1,0.1,0.1c0.5,0.7,1.2,1.1,2.1,1.1h25.7L82,91.6l2,2.2l13.2-12.3L84.1,69.2L82,71.4z" />
-                        </svg>
-                    </button>
-                </div>-->
             </div>
         </div>
         <div class="row text-center" style="margin-top: 20px; padding: 10px;">
@@ -108,12 +96,6 @@
                                 </a>
                             </h3>
                             <p ng-cloak>URL number: <strong>/{{ sub.urlNum }}</strong></p>
-                            <p class="small" style="margin:0;">
-                                Countries:
-                            </p>
-                            <div ng-repeat="code in sub.countrylist">
-                                <div class="country-circle" ng-cloak ng-if="code.country !== num">{{ code.country }}</div>
-                            </div>
                         </div>
                     </div>
                 </div>
