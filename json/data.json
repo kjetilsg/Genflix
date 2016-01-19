@@ -3,14 +3,36 @@
     "mainGenreName": "Action",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Action & Adventure",
+        "urlNum": "899",
+        "urlNetflix": "http://www.netflix.com/browse/genre/899",
+        "countrylist": [
+          { "country": "ALL" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Action & Adventure based on Books",
+        "urlNum": "4545",
+        "urlNetflix": "http://www.netflix.com/browse/genre/4545",
+        "countrylist": [
+          { "country": "ALL" }
+        ]
+      },
+      {
         "subGenreName": "Action & Adventure",
         "urlNum": "1365",
-        "urlNetflix": "http://www.netflix.com/browse/genre/1365"
+        "urlNetflix": "http://www.netflix.com/browse/genre/1365",
+        "countrylist": [
+          { "country": "ALL" }
+        ]
       },
       {
         "subGenreName": "Action Comedies",
         "urlNum": "43040",
-        "urlNetflix": "http://www.netflix.com/browse/genre/43040"
+        "urlNetflix": "http://www.netflix.com/browse/genre/43040",
+        "countrylist": [
+          { "country": "ALL" }
+        ]
       },
       {
         "subGenreName": "Action Sci-Fi & Fantasy",
@@ -43,13 +65,30 @@
         "subGenreName": "Adventures",
         "urlNum": 7442,
         "urlNetflix": "http://www.netflix.com/browse/genre/7442"
+      },
+      {
+        "subGenreName": "Critically-acclaimed Adventures from the 1980s",
+        "urlNum": "1359",
+        "urlNetflix": "http://www.netflix.com/browse/genre/1359",
+        "countrylist": [
+          { "country": "ALL" }
+        ]
       }
     ]
   },
-
   {
     "mainGenreName": "African",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed African-American Crime Movies",
+        "urlNum": 2715,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2715"
+      },
+      {
+        "subGenreName": "Critically-acclaimed African-American Movies",
+        "urlNum": 3359,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3359"
+      },
       {
         "subGenreName": "African Movies",
         "urlNum": 3761,
@@ -68,10 +107,14 @@
       }
     ]
   },
-
   {
     "mainGenreName": "Animal",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Animal Tales",
+        "urlNum": 566,
+        "urlNetflix": "http://www.netflix.com/browse/genre/566"
+      },
       {
         "subGenreName": "Animal Tales",
         "urlNum": 5507,
@@ -207,10 +250,19 @@
       }
     ]
   },
-
   {
     "mainGenreName": "Biographical",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Biographical Documentaries",
+        "urlNum": 3611,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3611"
+      },
+      {
+        "subGenreName": "Critically-acclaimed Biographical Movies",
+        "urlNum": 627,
+        "urlNetflix": "http://www.netflix.com/browse/genre/627"
+      },
       {
         "subGenreName": "Biographical Documentaries",
         "urlNum": 3652,
@@ -234,10 +286,49 @@
       }
     ]
   },
-
   {
     "mainGenreName": "British",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed British Crime Movies",
+        "urlNum": 2388,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2388"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Independent Dramas",
+        "urlNum": 4479,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4479"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Independent Movies",
+        "urlNum": 3621,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3621"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Movies",
+        "urlNum": 838,
+        "urlNetflix": "http://www.netflix.com/browse/genre/838"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Movies from the 1960s",
+        "urlNum": 1604,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1604"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Movies from the 1970s",
+        "urlNum": 1640,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1640"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British Movies from the 1980s",
+        "urlNum": 1664,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1664"
+      },
+      {
+        "subGenreName": "Critically-acclaimed British War Movies",
+        "urlNum": 2218,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2218"
+      },
       {
         "subGenreName": "British Movies",
         "urlNum": 10757,
@@ -263,6 +354,70 @@
     ]
   },
   {
+    "mainGenreName": "Cerebral",
+    "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Cerebral Crime Dramas",
+        "urlNum": 95,
+        "urlNetflix": "http://www.netflix.com/browse/genre/95",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral Crime Thrillers",
+        "urlNum": 2344,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2344",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral Dramas",
+        "urlNum": 4052,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4052",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral Foreign Political Movies",
+        "urlNum": 1418,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1418",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral French-Language Dramas",
+        "urlNum": 589,
+        "urlNetflix": "http://www.netflix.com/browse/genre/589",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral Independent Movies",
+        "urlNum": 89,
+        "urlNetflix": "http://www.netflix.com/browse/genre/89",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cerebral War Movies",
+        "urlNum": 4230,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4230",
+        "countrylist": [
+          { "country": "" }
+        ]
+      }
+    ]
+  },
+
+
+
+  {
     "mainGenreName": "Children",
     "subGenre": [
       {
@@ -275,6 +430,11 @@
   {
     "mainGenreName": "Chinese",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Chinese Crime Movies",
+        "urlNum": 1671,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1671"
+      },
       {
         "subGenreName": "Chinese Movies",
         "urlNum": 3960,
@@ -353,9 +513,89 @@
     "mainGenreName": "Comedies",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Comedies from the 1920s",
+        "urlNum": 2932,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2932",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1930s",
+        "urlNum": 2964,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2964",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1940s",
+        "urlNum": 2991,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2991",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1950s",
+        "urlNum": 3014,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3014",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1960s",
+        "urlNum": 3036,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3036",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1970s",
+        "urlNum": 3058,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3058",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Comedies from the 1980s",
+        "urlNum": 3084,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3084",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
         "subGenreName": "Comedies",
         "urlNum": 6548,
-        "urlNetflix": "http://www.netflix.com/browse/genre/6548"
+        "urlNetflix": "http://www.netflix.com/browse/genre/6548",
+        "countrylist": [
+          { "country": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "mainGenreName": "Coming-of-age",
+    "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Coming-of-age Dramas",
+        "urlNum": 4219,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4219",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Coming-of-age Movies",
+        "urlNum": 394,
+        "urlNetflix": "http://www.netflix.com/browse/genre/394",
+        "countrylist": [
+          { "country": "" }
+        ]
       }
     ]
   },
@@ -369,6 +609,36 @@
       }
     ]
   },
+    {
+    "mainGenreName": "Controversial",
+    "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Controversial Crime Movies",
+        "urlNum": 824,
+        "urlNetflix": "http://www.netflix.com/browse/genre/824",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Controversial Dramas",
+        "urlNum": 1759,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1759",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Controversial Movies",
+        "urlNum": 1428,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1428",
+        "countrylist": [
+          { "country": "" }
+        ]
+      }
+    ]
+  },
+
   {
     "mainGenreName": "Country",
     "subGenre": [
@@ -379,13 +649,25 @@
       }
     ]
   },
+
   {
     "mainGenreName": "Courtroom",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Courtroom Movies from the 1980s",
+        "urlNum": 1930,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1930",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
         "subGenreName": "Courtroom Dramas",
         "urlNum": 528582748,
-        "urlNetflix": "http://www.netflix.com/browse/genre/528582748"
+        "urlNetflix": "http://www.netflix.com/browse/genre/528582748",
+        "countrylist": [
+          { "country": "" }
+        ]
       }
     ]
   },
@@ -404,9 +686,84 @@
     "mainGenreName": "Crime",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Crime Action & Adventure",
+        "urlNum": 2882,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2882",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Dramas",
+        "urlNum": 1975,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1975",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Dramas based on Books",
+        "urlNum": 4848,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4848",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Dramas based on real life",
+        "urlNum": 1484,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1484",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Movies based on Books",
+        "urlNum": 585,
+        "urlNetflix": "http://www.netflix.com/browse/genre/585",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Movies based on real life",
+        "urlNum": 1192,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1192",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Movies from the 1930s",
+        "urlNum": 4979,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4979",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Movies on Blu-ray",
+        "urlNum": 214,
+        "urlNetflix": "http://www.netflix.com/browse/genre/214",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Crime Sci-Fi & Fantasy",
+        "urlNum": 638,
+        "urlNetflix": "http://www.netflix.com/browse/genre/638",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
         "subGenreName": "Crime Action & Adventure",
         "urlNum": 9584,
-        "urlNetflix": "http://www.netflix.com/browse/genre/9584"
+        "urlNetflix": "http://www.netflix.com/browse/genre/9584",
+        "countrylist": [
+          { "country": "" }
+        ]
       },
       {
         "subGenreName": "Crime Documentaries",
@@ -430,14 +787,34 @@
       }
     ]
   },
-
   {
     "mainGenreName": "Cult",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Cult Crime Movies",
+        "urlNum": 3599,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3599",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Cult Sci-Fi & Fantasy",
+        "urlNum": 3079,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3079",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+
+
+      {
         "subGenreName": "Cult Comedies",
         "urlNum": 9434,
-        "urlNetflix": "http://www.netflix.com/browse/genre/9434"
+        "urlNetflix": "http://www.netflix.com/browse/genre/9434",
+        "countrylist": [
+          { "country": "" }
+        ]
       },
       {
         "subGenreName": "Cult Horror Movies",
@@ -466,12 +843,169 @@
     "mainGenreName": "Dark",
     "subGenre": [
       {
+        "subGenreName": "Critically-acclaimed Dark Action & Adventure<",
+        "urlNum": 3087,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3087",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Biographical Movies",
+        "urlNum": 2824,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2824",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Comedies",
+        "urlNum": 2689,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2689",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Documentaries",
+        "urlNum": 1280,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1280",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Dramas from the 1940s",
+        "urlNum": 2669,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2669",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Dramas from the 1950s",
+        "urlNum": 2698,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2698",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Dramas from the 1960s",
+        "urlNum": 2721,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2721",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Dramas from the 1970s",
+        "urlNum": 2745,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2745",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Dramas from the 1980s",
+        "urlNum": 2766,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2766",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Foreign Movies",
+        "urlNum": 1952,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1952",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Foreign Thrillers",
+        "urlNum": 1036,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1036",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark French-Language Movies",
+        "urlNum": 876,
+        "urlNetflix": "http://www.netflix.com/browse/genre/876",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark German-Language Movies",
+        "urlNum": 3748,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3748",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Movies based on Books",
+        "urlNum": 4258,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4258",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Political Documentaries",
+        "urlNum": 3160,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3160",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Psychological Thrillers",
+        "urlNum": 1724,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1724",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark Sci-Fi & Fantasy",
+        "urlNum": 1926,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1926",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark War Dramas",
+        "urlNum": 1886,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1886",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Dark War Movies",
+        "urlNum": 4572,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4572",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
         "subGenreName": "Dark Comedies",
         "urlNum": 869,
-        "urlNetflix": "http://www.netflix.com/browse/genre/869"
+        "urlNetflix": "http://www.netflix.com/browse/genre/869",
+        "countrylist": [
+          { "country": "" }
+        ]
       }
     ]
   },
+
+
   {
     "mainGenreName": "Deep",
     "subGenre": [
@@ -509,10 +1043,14 @@
       }
     ]
   },
-
   {
     "mainGenreName": "Dramas",
     "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Dramas based on Books",
+        "urlNum": 3310,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3310"
+      },
       {
         "subGenreName": "Dramas based on Books",
         "urlNum": 4961,
@@ -560,6 +1098,87 @@
       }
     ]
   },
+
+    {
+    "mainGenreName": "Emotional",
+    "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Emotional Biographical Dramas",
+        "urlNum": 2500,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2500",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Crime Dramas",
+        "urlNum": 1285,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1285",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Dramas",
+        "urlNum": 4249,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4249",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Dramas from the 1980s",
+        "urlNum": 49,
+        "urlNetflix": "http://www.netflix.com/browse/genre/49",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Movies from the 1960s",
+        "urlNum": 4403,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4403",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Movies from the 1980s",
+        "urlNum": 4466,
+        "urlNetflix": "http://www.netflix.com/browse/genre/4466",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Political Dramas",
+        "urlNum": 3820,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3820",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional Political Movies",
+        "urlNum": 774,
+        "urlNetflix": "http://www.netflix.com/browse/genre/774",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Emotional War Dramas",
+        "urlNum": 1972,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1972",
+        "countrylist": [
+          { "country": "" }
+        ]
+      }
+    ]
+  },
+
+
+
   {
     "mainGenreName": "Epics",
     "subGenre": [
@@ -570,6 +1189,61 @@
       }
     ]
   },
+    {
+    "mainGenreName": "Exciting",
+    "subGenre": [
+      {
+        "subGenreName": "Critically-acclaimed Exciting Foreign Dramas",
+        "urlNum": 1335,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1335",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Exciting Foreign Movies",
+        "urlNum": 1782,
+        "urlNetflix": "http://www.netflix.com/browse/genre/1782",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Exciting Movies from the 1970s",
+        "urlNum": 3047,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3047",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Exciting Movies from the 1980s",
+        "urlNum": 3070,
+        "urlNetflix": "http://www.netflix.com/browse/genre/3070",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Exciting Movies on Blu-ray",
+        "urlNum": 2024,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2024",
+        "countrylist": [
+          { "country": "" }
+        ]
+      },
+      {
+        "subGenreName": "Critically-acclaimed Exciting Sci-Fi & Fantasy",
+        "urlNum": 2396,
+        "urlNetflix": "http://www.netflix.com/browse/genre/2396",
+        "countrylist": [
+          { "country": "" }
+        ]
+      }
+    ]
+  },
+
+
   {
     "mainGenreName": "Experimental",
     "subGenre": [

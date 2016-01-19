@@ -6,4 +6,8 @@ genflixApp.controller('mainController', ['$scope', '$http', function ($scope, $h
         $scope.genreList = data;
     });
 
+    $scope.getNumber = (function() {
+        num = "3";
+    });
+
 }]);

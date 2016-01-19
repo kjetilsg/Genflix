@@ -6,7 +6,7 @@
 }
 
 .fork-me-text {
-    font-family: 'VT323', ;
+    font-family: 'VT323',;
     font-size: 18px;
     width: 200px;
     -ms-transform: rotate(-7deg); /* IE 9 */
@@ -21,6 +21,7 @@ h1 {
 
 h3 {
     font-size: 18px;
+    font-weight: 400;
 }
 
 p {
@@ -56,6 +57,35 @@ p {
     padding: 10px;
 }
 
+.country-circle {
+    background-color: #6f6f6f;
+    color: #c5c5c5;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    font-size: 10px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+
+.country-circle-green {
+    background-color: #6f6f6f;
+    color: #c5c5c5;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    font-size: 10px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+
+
 @media screen and (min-width: $screen-sm) {
     h1 {
         font-size: 100px;
@@ -63,7 +93,6 @@ p {
 
     h3 {
         font-size: 28px;
-        font-weight: 400;
     }
 
     p {
