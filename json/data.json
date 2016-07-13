@@ -645,43 +645,7 @@
             "urlNum": 26146,
             "urlNetflix": "http://www.netflix.com/browse/genre/26146"
         }]
-    }, {
-        "mainGenreName": "Critically-acclaimed Sci-Fi",
-        "subGenre": [{
-            "subGenreName": "Fantasy",
-            "urlNum": 5903,
-            "urlNetflix": "http://www.netflix.com/browse/genre/5903"
-        }, {
-            "subGenreName": "Fantasy based on Books",
-            "urlNum": 8562,
-            "urlNetflix": "http://www.netflix.com/browse/genre/8562"
-        }, {
-            "subGenreName": "Fantasy from the 1950s",
-            "urlNum": 64581,
-            "urlNetflix": "http://www.netflix.com/browse/genre/64581"
-        }, {
-            "subGenreName": "Fantasy from the 1980s",
-            "urlNum": 1382,
-            "urlNetflix": "http://www.netflix.com/browse/genre/1382"
-        }, {
-            "subGenreName": "Adventure",
-            "urlNum": 11466,
-            "urlNetflix": "http://www.netflix.com/browse/genre/11466"
-        }, {
-            "subGenreName": "Dramas",
-            "urlNum": 78675,
-            "urlNetflix": "http://www.netflix.com/browse/genre/78675"
-        }, {
-            "subGenreName": "Horror Movies",
-            "urlNum": 9738,
-            "urlNetflix": "http://www.netflix.com/browse/genre/9738"
-        }, {
-            "subGenreName": "Thrillers",
-            "urlNum": 3660,
-            "urlNetflix": "http://www.netflix.com/browse/genre/3660"
-        }]
     },
-
     {
         "mainGenreName": "Cult",
         "subGenre": [{
@@ -1367,9 +1331,6 @@
             "urlNetflix": "http://www.netflix.com/browse/genre/25804"
         }]
     },
-
-
-
     {
         "mainGenreName": "Miniseries",
         "subGenre": [{
@@ -1593,7 +1554,40 @@
             "subGenreName": "Sci-Fi Thrillers",
             "urlNum": 11014,
             "urlNetflix": "http://www.netflix.com/browse/genre/11014"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Fantasy",
+            "urlNum": 5903,
+            "urlNetflix": "http://www.netflix.com/browse/genre/5903"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Fantasy based on Books",
+            "urlNum": 8562,
+            "urlNetflix": "http://www.netflix.com/browse/genre/8562"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Fantasy from the 1950s",
+            "urlNum": 64581,
+            "urlNetflix": "http://www.netflix.com/browse/genre/64581"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Fantasy from the 1980s",
+            "urlNum": 1382,
+            "urlNetflix": "http://www.netflix.com/browse/genre/1382"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Adventure",
+            "urlNum": 11466,
+            "urlNetflix": "http://www.netflix.com/browse/genre/11466"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Dramas",
+            "urlNum": 78675,
+            "urlNetflix": "http://www.netflix.com/browse/genre/78675"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Horror Movies",
+            "urlNum": 9738,
+            "urlNetflix": "http://www.netflix.com/browse/genre/9738"
+        }, {
+            "subGenreName": "Critically-acclaimed Sci-Fi & Thrillers",
+            "urlNum": 3660,
+            "urlNetflix": "http://www.netflix.com/browse/genre/3660"
         }]
+
     },
 
     {

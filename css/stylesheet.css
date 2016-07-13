@@ -2578,12 +2578,6 @@ p {
   float: left;
   margin-right: 5px; }
 
-@media screen and (min-width: 992px) {
-  .flex-item {
-    width: 25%; }
-
-  h1 {
-    font-size: 100px; } }
 @media screen and (min-width: 768px) {
   h1 {
     font-size: 60px; }
@@ -2599,5 +2593,11 @@ p {
 
   .flex-item {
     width: 50%; } }
+@media screen and (min-width: 992px) {
+  .flex-item {
+    width: 25%; }
+
+  h1 {
+    font-size: 100px; } }
 
 /*# sourceMappingURL=stylesheet.css.map */

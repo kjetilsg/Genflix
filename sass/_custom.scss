@@ -86,15 +86,6 @@ p {
     margin-right: 5px;
 }
 
-@media screen and (min-width: $screen-md) {
-    .flex-item {
-        width: 25%;
-    }
-    h1 {
-        font-size: 100px;
-    }
-}
-
 @media screen and (min-width: $screen-sm) {
     h1 {
         font-size: 60px;
@@ -114,5 +105,14 @@ p {
 
     .flex-item {
         width: 50%;
+    }
+}
+
+@media screen and (min-width: $screen-md) {
+    .flex-item {
+        width: 25%;
+    }
+    h1 {
+        font-size: 100px;
     }
 }
