@@ -843,7 +843,7 @@
     "mainGenreName": "Dark",
     "subGenre": [
       {
-        "subGenreName": "Critically-acclaimed Dark Action & Adventure<",
+        "subGenreName": "Critically-acclaimed Dark Action & Adventure",
         "urlNum": 3087,
         "urlNetflix": "http://www.netflix.com/browse/genre/3087",
         "countrylist": [
@@ -1185,7 +1185,7 @@
         "urlNetflix": "http://www.netflix.com/browse/genre/52858"
       }
     ]
-  },  
+  },
     {
     "mainGenreName": "Exciting",
     "subGenre": [
@@ -2317,5 +2317,85 @@
         "urlNetflix": "http://www.netflix.com/browse/genre/75405"
       }
     ]
-  }
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Fantasy",
+      "urlNum": 5903,
+      "urlNetflix": "http://www.netflix.com/browse/genre/5903"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Fantasy based on Books",
+      "urlNum": 8562,
+      "urlNetflix": "http://www.netflix.com/browse/genre/8562"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Fantasy from the 1950s",
+      "urlNum": 64581,
+      "urlNetflix": "http://www.netflix.com/browse/genre/64581"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Fantasy from the 1980s",
+      "urlNum": 1382,
+      "urlNetflix": "http://www.netflix.com/browse/genre/1382"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Adventure",
+      "urlNum": 11466,
+      "urlNetflix": "http://www.netflix.com/browse/genre/11466"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Dramas",
+      "urlNum": 78675,
+      "urlNetflix": "http://www.netflix.com/browse/genre/78675"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Horror Movies",
+      "urlNum": 9738,
+      "urlNetflix": "http://www.netflix.com/browse/genre/9738"
+    }
+  ]
+},
+{
+  "mainGenreName": "Critically-acclaimed Sci-Fi",
+  "subGenre": [
+    {
+      "subGenreName": "Thrillers",
+      "urlNum": 3660,
+      "urlNetflix": "http://www.netflix.com/browse/genre/3660"
+    }
+  ]
+},
 ]
